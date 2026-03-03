@@ -1,0 +1,40 @@
+name: weatherworld
+description: Examen Développement Mobile L3GL ISI 2026
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP & API
+  dio: ^5.4.0
+  retrofit: ^4.1.0
+  json_annotation: ^4.8.1
+
+  # State Management
+  provider: ^6.1.1
+
+  # Maps
+  google_maps_flutter: ^2.5.3
+
+  # UI Animations
+  animated_text_kit: ^4.2.2
+  percent_indicator: ^4.2.3
+
+  # Utils
+  connectivity_plus: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.8
+  retrofit_generator: ^8.1.0
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
