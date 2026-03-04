@@ -1,4 +1,4 @@
-// GENERATED CODE - DO NOT MODIFY BY HAND
+
 part of 'weather_model.dart';
 
 WeatherModel _$WeatherModelFromJson(Map<String, dynamic> json) => WeatherModel(
