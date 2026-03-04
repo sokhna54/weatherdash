@@ -1,4 +1,4 @@
-# 🌍 WeatherWorld — Examen Développement Mobile L3GL ISI 2026
+# 🌍 WeatherWorld — Examen Développement Mobile L3GLG2 ISI 2026
 
 > Application Flutter — météo en temps réel pour 5 villes mondiales
 
